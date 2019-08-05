@@ -1,0 +1,9 @@
+﻿  MySort.cpp
+C:\D\cpppro\基础排序算法\基础排序算法\MySort.cpp(33,20): warning C4018:  “<”: 有符号/无符号不匹配
+C:\D\cpppro\基础排序算法\基础排序算法\MySort.cpp(69,20): warning C4018:  “<”: 有符号/无符号不匹配
+C:\D\cpppro\基础排序算法\基础排序算法\MySort.cpp(72,25): warning C4018:  “<”: 有符号/无符号不匹配
+C:\D\cpppro\基础排序算法\基础排序算法\MySort.cpp(143,21): warning C4018:  “<”: 有符号/无符号不匹配
+C:\D\cpppro\基础排序算法\基础排序算法\MySort.cpp(161,21): warning C4018:  “<=”: 有符号/无符号不匹配
+C:\D\cpppro\基础排序算法\基础排序算法\MySort.cpp(163,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\D\cpppro\基础排序算法\基础排序算法\MySort.cpp(198,20): warning C4018:  “<”: 有符号/无符号不匹配
+  基础排序算法.vcxproj -> C:\D\cpppro\基础排序算法\Debug\基础排序算法.exe
